@@ -1,0 +1,7 @@
+{
+    "require": {
+        "vlucas/phpdotenv": "^3.3",
+        "pantheon-systems/terminus": "^2.0",
+        "twilio/sdk": "^5.30"
+    }
+}
